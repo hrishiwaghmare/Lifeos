@@ -1,52 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Public Marketing & Information Pages -->
   <url>
-    <loc>https://lifeos.app/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://lifeosmanages.netlify.app/</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/about</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://lifeosmanages.netlify.app/about</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/faq</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://lifeosmanages.netlify.app/faq</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/contact</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://lifeosmanages.netlify.app/contact</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/login</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://lifeosmanages.netlify.app/login</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/signup</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://lifeosmanages.netlify.app/signup</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/privacy</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://lifeosmanages.netlify.app/privacy</loc>
   </url>
   <url>
-    <loc>https://lifeos.app/terms</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://lifeosmanages.netlify.app/terms</loc>
   </url>
 </urlset>
